@@ -1,4 +1,4 @@
-# Con-artist-inventory-tracker
+# artist-alley-inventory-manager
 An open source, locally hosted inventory tracker, built by Artist Alley, for Artist Alley.
 
 While this tool is in development, please feel free to try out [this](https://docs.google.com/spreadsheets/d/1Ng14v-IQt59Q3Ktimy4e6UgFWp5q-t3A6-hEjoX3xSw/edit?usp=drivesdk) Google Sheets Template. 
