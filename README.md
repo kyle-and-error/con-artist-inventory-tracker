@@ -2,7 +2,7 @@
 An open source, locally hosted inventory tracker, built by Artist Alley, for Artist Alley.
 
 
-While you're here, please consider [supporting the developer!](https://ko-fi.com/kyleanderror)
+While you're here, please consider [supporting the development of this tool.](https://ko-fi.com/kyleanderror)
 
 While this tool is in development, please feel free to try out [this](https://docs.google.com/spreadsheets/d/1Ng14v-IQt59Q3Ktimy4e6UgFWp5q-t3A6-hEjoX3xSw/edit?usp=drivesdk) Google Sheets Template. 
 
@@ -97,7 +97,7 @@ SH-LG-ANIME-DRAGONTEE
    * Add category, type/size, group, SKU prefixes
 2. Go to `Manage Items`
 
-   * Add item → SKU auto-generates
+   * Add item and individual ID → SKU auto-generates
 
 ---
 
