@@ -8,11 +8,6 @@ While this tool is in development, please feel free to try out [this](https://do
 
 # [Inventory Tracking Google Sheets Template](https://docs.google.com/spreadsheets/d/1Ng14v-IQt59Q3Ktimy4e6UgFWp5q-t3A6-hEjoX3xSw/edit?usp=drivesdk)
 
-A lightweight, event-based inventory system for small businesses.
-Track **changes over time**, not manual totals — the sheet handles the math for you.
-
----
-
 ## 📄 Sheet Overview
 
 ### `Date Marker`
