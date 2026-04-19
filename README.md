@@ -110,6 +110,7 @@ SH-LG-ANIME-DRAGONTEE
 
    * Select event in a new column (after F)
    * Enter **change values** (+/- only)
+   * You may switch columns AFTER F around to suit your organization style, but A:F must remain in place.
 
 ✔️ Totals update automatically in Column E
 ❌ Do not enter totals manually
